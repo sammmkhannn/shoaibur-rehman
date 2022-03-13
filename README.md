@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/samKhan"><img src="https://api.daily.dev/devcards/3bbb82a22913422eb2eac518e64e16fe.png?r=a1l" width="400" alt="Shoaib ur Rehman's Dev Card"/></a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
